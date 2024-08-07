@@ -4,8 +4,7 @@
 
 ## Sobre Mim
 
-- 💻 Sou desenvolvedor Python e atualmente estou estagiando na CSN.
-- 🚀 Estou migrando para Java e explorando novas tecnologias.
+- 💻 Sou desenvolvedor Java e atualmente estou estagiando na CSN.
 - 📚 Utilizo este espaço para documentar meu aprendizado e evolução na programação.
 - 🎓 Estou cursando Sistemas de Informação na UniFOA - Centro Universitário de Volta Redonda.
 
