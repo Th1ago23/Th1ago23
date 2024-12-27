@@ -51,6 +51,5 @@ I am passionate about continuous improvement, applying critical analysis and bes
 
 <br clear="both">
 
-![Snake animation](https://github.com/Th1ago23/Th1ago23/raw/output/snake.svg)
 
 ###
