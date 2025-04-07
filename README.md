@@ -1,13 +1,11 @@
-<h1 align="center">Olá! 👋🏼 Me chamo Thiago</h1>
-<h3 align="center">🚀 Back-End Developer | Java & Spring Boot | Fullstack Developer</h3>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Thiago;Olá%2C+meu+nome+é+Thiago" alt="Typing SVG" />
 </div>
 
+<h3 align="center">🚀 Back-End Developer | Java & Spring Boot | Fullstack Developer</h3>
+
 ---
+
 
 ### 🧠 Sobre mim
 
