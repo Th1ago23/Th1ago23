@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋🏼 Me chamo Thiago</h1>
-<h3 align="center">🚀 Back-End Developer | Java & Spring Boot Enthusiast | Fullstack Explorer</h3>
+<h3 align="center">🚀 Back-End Developer | Java & Spring Boot | Fullstack Developer</h3>
 
 ---
 
