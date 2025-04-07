@@ -76,5 +76,3 @@
 
 ---
 
-> 💡 Dica: mantenha seus projetos atualizados e bem documentados com um bom README, prints e descrição técnica clara.
-
