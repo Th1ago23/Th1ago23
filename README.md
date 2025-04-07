@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=System.out.println(%22Hello+World!%22);Olá%2C+meu+nome+é+Thiago;Sou+desenvolvedor+Java+Spring+Boot;🧑‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=+System.out.println(%22Hello+World!%22);Olá%2C+meu+nome+é+Thiago;Sou+desenvolvedor+Java+Spring+Boot;🧑‍💻" alt="Typing SVG" />
 </div>
 
 ---
@@ -21,7 +21,7 @@
 ### ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,ts,js,html,css,git,github,nodejs,dotnet,csharp" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,ts,js,html,css,git,github,nodejs" />
 </div>
 
 ---
