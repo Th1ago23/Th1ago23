@@ -2,24 +2,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Thiago;Olá%2C+meu+nome+é+Thiago" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Back-End Developer | Java & Spring Boot | Fullstack Developer</h3>
+<h3 align="center">🚀Fullstack Developer</h3>
 
 ---
 
 
 ### 🧠 Sobre mim
 
-💻 Sou um desenvolvedor **Java Back-End** com experiência em projetos que utilizam **Spring Boot**, **JWT**, **MySQL** e **Hibernate**.  
-🌐 Tenho conhecimentos em **React**, **React Native** e **Node.js**, e já desenvolvi aplicações completas integrando front e back.  
-📊 Também já atuei com **C# e .NET Core**, e gosto de explorar diferentes tecnologias.  
-🎯 Meu foco atual é conseguir minha **primeira oportunidade como Dev Júnior**, com ênfase em back-end.
+💻 Sou um desenvolvedor **Fullstack** com experiência em projetos que utilizam **JavaScript**, **TypeScript**, **Node.Js** e **Tailwind**.  
+🌐 Tenho conhecimentos em **React** e **React Native**, e já desenvolvi aplicações completas integrando front e back.  
+🎯 Meu foco atual é conseguir minha **primeira oportunidade como Dev Júnior**..
 
 ---
 
 ### ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,ts,js,git,github,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,postgresql,git,github" />
 </div>
 
 ---
