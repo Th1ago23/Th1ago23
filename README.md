@@ -36,7 +36,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🧾 Daily Task API](https://github.com/Th1ago23/Daily-Task-API) | API para gerenciamento de tarefas diárias com autenticação JWT. | Java, Spring Boot, JWT, MySQL |
+| [🧾 TP Odontologia](https://github.com/Th1ago23/Daily-Task-API) | API para gerenciamento de tarefas diárias com autenticação JWT. | Java, Spring Boot, JWT, MySQL |
 | [🔐 Sistema de Autenticação](https://github.com/Th1ago23/Auth-System) | Sistema completo de login com validação e token. | Java, Spring Security, JWT |
 | [📱 App React Native](https://github.com/Th1ago23/ReactNativeApp) | App mobile com React Native para controle de tarefas. | React Native, Expo, JS |
 
