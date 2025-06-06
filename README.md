@@ -10,7 +10,7 @@
 ### 🧠 Sobre mim
 
 💻 Sou um desenvolvedor **Fullstack** com experiência em projetos que utilizam **JavaScript**, **TypeScript**, **Node.Js** e **Tailwind**.  
-🌐 Tenho conhecimentos em **React** e **React Native**, e já desenvolvi aplicações completas integrando front e back.  
+🌐 Tenho conhecimentos em **React** e **React Native**, e já desenvolvi aplicações completas integrando front e back...  
 🎯 Meu foco atual é conseguir minha **primeira oportunidade como Dev Júnior**..
 
 ---
