@@ -9,8 +9,7 @@
 
 ### 🧠 Sobre mim
 
-💻 Sou um desenvolvedor **Fullstack** com experiência em projetos que utilizam **JavaScript**, **TypeScript**, **Node.Js** e **Tailwind**.  
-🌐 Tenho conhecimentos em **React** e **React Native**, e já desenvolvi aplicações completas integrando front e back...  
+💻 Sou um desenvolvedor **Fullstack** com experiência em projetos que utilizam **.NET Framework 6/7/8**, **ASP.NET**, **JavaScript** e **React**.  
 🎯 Meu foco atual é conseguir minha **primeira oportunidade como Dev Júnior**..
 
 ---
@@ -18,7 +17,7 @@
 ### ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,postgresql,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,azure,dotnet,js,git,github" />
 </div>
 
 ---
