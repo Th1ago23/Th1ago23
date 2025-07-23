@@ -25,10 +25,18 @@
 ### 📈 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Th1ago23&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th1ago23&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Th1ago23&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Th1ago23&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Th1ago23&show_icons=true" />
+</picture>
 </div>
-
 ---
 
 ### 📌 Projetos em Destaque
