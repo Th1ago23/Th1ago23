@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Thiago;Olá%2C+meu+nome+é+Thiago" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀Fullstack Developer</h3>
+<h3 align="center">🚀.NET Developer</h3>
 
 ---
 
@@ -17,7 +17,7 @@
 ### ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,azure,dotnet,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,azure,dotnet,js,git,github" />
 </div>
 
 ---
@@ -43,16 +43,17 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🧾 TP Odontologia](https://github.com/Th1ago23/Daily-Task-API) | API para gerenciamento de tarefas diárias com autenticação JWT. | Java, Spring Boot, JWT, MySQL |
-| [🔐 Sistema de Autenticação](https://github.com/Th1ago23/Auth-System) | Sistema completo de login com validação e token. | Java, Spring Security, JWT |
-| [📱 App React Native](https://github.com/Th1ago23/ReactNativeApp) | App mobile com React Native para controle de tarefas. | React Native, Expo, JS |
+| [📖 Bookfinder ](https://github.com/Th1ago23/Daily-Task-API) | Projeto MVC para reservas de livros | <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,git,github" /> |
+| [🪪 ReservasDotNet ](https://github.com/Th1ago23/Auth-System) | Projeto MVC para reservas de evento | <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,git,github" /> |
+| [📱 Reelfy Authenticatior](https://github.com/Th1ago23/ReactNativeApp) | API RESTful com os 3 níveis da escala de richardson com token JWT | <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,git,github,azure" /> |
 
 ---
 
-### 🧩 Stats Visuais Extras
+### 🧩 Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th1ago23&theme=tokyonight" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Th1ago23&theme=radical&hide_border=true" />
 </div>
 
