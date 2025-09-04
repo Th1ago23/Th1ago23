@@ -10,7 +10,6 @@
 
 💻 Desenvolvedor **Fullstack** apaixonado por tecnologia e inovação.  
 🌐 Experiência com **.NET 6/7/8**, **ASP.NET**, **JavaScript** e **React**.  
-🎯 Objetivo: Conquistar minha **primeira oportunidade como Dev Júnior**.  
 ⚡ Fun fact: Café ☕ + Código = Produtividade infinita.  
 
 ---
