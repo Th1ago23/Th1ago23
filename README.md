@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello%2C+my+name+is+Thiago;Olá%2C+meu+nome+é+Thiago;Bem-vindo+ao+meu+perfil!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello%2C+my+name+is+Thiago;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
 </div>
 
-<h2 align="center">✨ Seja bem-vindo ao meu espaço no GitHub ✨</h2>
+<h2 align="center">✨ Welcome to my GitHub space ✨</h2>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-💻 Desenvolvedor **Fullstack** apaixonado por tecnologia e inovação.  
-🌐 Experiência com **.NET 6/7/8**, **ASP.NET**, **JavaScript** e **React**.  
-⚡ Fun fact: Café ☕ + Código = Produtividade infinita.  
+💻 Passionate **Fullstack Developer** focused on building scalable and innovative solutions.  
+🌐 Experienced with **.NET 6/7/8**, **ASP.NET**, **JavaScript**, and **React**.  
+⚡ Fun fact: Coffee ☕ + Code = Infinite productivity.  
 
 ---
 
@@ -34,17 +34,17 @@
 
 ---
 
-### 🌟 Projetos em Destaque
+### 🌟 Featured Projects
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [📖 **Bookfinder**](https://github.com/Th1ago23/Daily-Task-API) | Projeto MVC para reservas de livros | <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,git,github" /> |
-| [🪪 **ReservasDotNet**](https://github.com/Th1ago23/Auth-System) | Sistema MVC para reservas de eventos | <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,git,github" /> |
-| [📱 **Reelfy Authenticator**](https://github.com/Th1ago23/ReactNativeApp) | API RESTful (Escala Richardson + JWT) | <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,git,github,azure" /> |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [📖 **Bookfinder**](https://github.com/Th1ago23/Daily-Task-API) | MVC project for book reservations | <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,git,github" /> |
+| [🪪 **ReservasDotNet**](https://github.com/Th1ago23/Auth-System) | MVC system for event reservations | <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,git,github" /> |
+| [📱 **Reelfy Authenticator**](https://github.com/Th1ago23/ReactNativeApp) | RESTful API (Richardson Maturity Model + JWT) | <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,git,github,azure" /> |
 
 ---
 
-### 🔥 Outros Stats
+### 🔥 More Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th1ago23&theme=tokyonight" /><br>
@@ -53,7 +53,7 @@
 
 ---
 
-### 📬 Vamos nos conectar?
+### 📬 Let’s Connect!
 
 <div align="center">
   <a href="mailto:thiago.peixots@gmail.com">
